@@ -2,6 +2,9 @@
 .idea/
 .lib
 
+#add ignore Mac OS
+.DS_Store
+
 logs
 *.log
 npm-debug.log*
